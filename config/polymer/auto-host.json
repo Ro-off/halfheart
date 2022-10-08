@@ -1,0 +1,14 @@
+{
+  "_c1": "Enables Polymer's ResourcePack Auto Hosting",
+  "enableHttpServer": false,
+  "_c2": "Port used internally to run http server",
+  "port": 25567,
+  "_c3": "Public address used for sending requests",
+  "externalAddress": "http://localhost:25567/",
+  "_c4": "Marks resource pack as required",
+  "require": false,
+  "_c5": "Message sent to clients before pack is loaded",
+  "message": "This server uses resource pack to enhance gameplay with custom textures and models. It might be unplayable without them.",
+  "_c6": "Disconnect message in case of failure",
+  "disconnectMessage": "Couldn't apply server resourcepack!"
+}

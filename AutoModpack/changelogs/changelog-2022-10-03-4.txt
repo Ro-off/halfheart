@@ -1,0 +1,12 @@
+ + alternate-current-mc1.19-1.4.0.jar
+ + c2me-fabric-mc1.19.2-0.2.0+alpha.8.37 (1).jar
+ + Clumps-fabric-1.19.2-9.0.0+11.jar
+ + Debugify-2.7.1.jar
+ + fabric-carpet-1.19.1-1.4.83+v220727.jar
+ + krypton-0.2.1 (1).jar
+ + lazydfu-0.1.3.jar
+ + nounusedchunks-1.3.jar
+ + quilted-fabric-api-4.0.0-beta.13+0.62.0-1.19.2.jar
+ + quiltgoslightlyfasterlol-0.0.3.jar
+ + servercore-1.3.2-1.19.2.jar
+ + slumber-1.0.0.jar

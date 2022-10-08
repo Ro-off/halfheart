@@ -1,0 +1,11 @@
+ + Debugify-2.7.1.jar
+ + Chunky-1.3.38.jar
+ + better-respawn-fabric-1.19.2-2.0.1.jar
+ + alternate-current-mc1.19-1.4.0.jar
+ + player-animation-lib-fabric-0.3.5.jar
+ + better-nether-7.1.0.jar
+ + Clumps-fabric-1.19.2-9.0.0+11.jar
+ + quilted-fabric-api-4.0.0-beta.13+0.62.0-1.19.2.jar
+ + bettercombat-fabric-1.4.4+1.19.jar
+ + bclib-2.1.0.jar
+ + better-end-2.1.0.jar
